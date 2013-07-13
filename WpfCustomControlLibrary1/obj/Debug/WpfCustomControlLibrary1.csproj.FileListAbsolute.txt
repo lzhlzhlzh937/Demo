@@ -1,0 +1,28 @@
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\ResolveAssemblyReference.cache
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\bin\Debug\Model.dll
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\bin\Debug\Model.pdb
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\GenerateResource.read.1.tlog
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\WpfCustomControlLibrary1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.dll
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\bin\Debug\WpfCustomControlLibrary1.pdb
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.cache
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1_MarkupCompile.lref
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\Themes\Generic.baml
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.g.resources
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.Properties.Resources.resources
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.dll
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfCustomControlLibrary1\obj\Debug\WpfCustomControlLibrary1.pdb

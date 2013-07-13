@@ -1,0 +1,5 @@
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\Model\obj\Debug\ResolveAssemblyReference.cache
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\Model\bin\Debug\Model.dll
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\Model\bin\Debug\Model.pdb
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\Model\obj\Debug\Model.dll
+c:\users\martin\downloads\visual studio 2010\Projects\WpfApplication1\Model\obj\Debug\Model.pdb

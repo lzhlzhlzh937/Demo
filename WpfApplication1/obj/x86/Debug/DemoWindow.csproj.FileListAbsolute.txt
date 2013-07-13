@@ -1,0 +1,17 @@
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\DemoWindow_MarkupCompile.cache
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\DemoWindow.g.resources
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\DemoWindow.Properties.Resources.resources
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\bin\Debug\DemoWindow.exe
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\bin\Debug\DemoWindow.pdb
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\DemoWindow.exe
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\WpfApplication1 - Kopie\WpfApplication1\obj\x86\Debug\DemoWindow.pdb
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\Demo\WpfApplication1\obj\x86\Debug\DemoWindow.exe
+C:\Users\martin\Downloads\Visual Studio 2010\Projects\Demo\WpfApplication1\obj\x86\Debug\DemoWindow.pdb
